@@ -1,0 +1,6 @@
+D:\Downloads\csharp-class1\csharp-class1\Task5\obj\Debug\net472\Task5.csproj.AssemblyReference.cache
+D:\Downloads\csharp-class1\csharp-class1\Task5\obj\Debug\net472\Task5.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\csharp-class1\csharp-class1\Task5\obj\Debug\net472\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\csharp-class1\csharp-class1\Task5\obj\Debug\net472\Task5.AssemblyInfoInputs.cache
+D:\Downloads\csharp-class1\csharp-class1\Task5\obj\Debug\net472\Task5.AssemblyInfo.cs
+D:\Downloads\csharp-class1\csharp-class1\Task5\obj\Debug\net472\Task5.csproj.CoreCompileInputs.cache
